@@ -1,0 +1,3 @@
+haha
+It's a file to store line in an alphabetically sorted line
+So Don't know what will it look like after sorting'
